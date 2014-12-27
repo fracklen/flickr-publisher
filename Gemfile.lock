@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (1.0.2)
+    flickraw (0.9.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv
+  flickraw
